@@ -23,6 +23,3 @@ Feel free to explore my repositories for more projects and code examples!
 ## Connect with Me
 
 - 📫 You can reach out to me via Email [ammar.batea@outlook.com]
-## Let's Learn Together
-
-I'm always looking to connect with fellow beginners and learn from each other. If you're also passionate about AI and data science, let's connect and grow together!
