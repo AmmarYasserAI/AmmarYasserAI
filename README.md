@@ -1,4 +1,8 @@
-# Hello, I'm Ammar! 👨‍💻
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/71f68e9e-d361-423d-b619-389561cea966" alt="Ammar Yasser" width="1200"/>
+</p>
+
+
 
 ## 🎯 About Me
 - 🔧 Developer | 📊 Data Enthusiast | 🎓 Lifelong Learner
