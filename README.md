@@ -63,4 +63,4 @@
 
 ## 📫 How to Reach Me
 - 💬 [LinkedIn](https://www.linkedin.com/in/ammar-yasser-92a2622b9/)
-- 📧 [Email](mailto:ammar.batea@outlook.com)
+- 📧 [Email](mailto:ammar.batea@outlook.com) - ammar.batea@outlook.com
