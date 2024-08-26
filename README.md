@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Google%20Forms-4285F4?style=for-the-badge&logo=google-forms&logoColor=white" alt="Google Forms" style="transition: transform 0.3s ease;"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" style="transition: transform 0.3s ease;"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" style="transition: transform 0.3s ease;"/>
-  <img src="https://img.shields.io/badge/Godot-3C3C3C?style=for-the-badge&logo=godot&logoColor=white" alt="Godot" style="transition: transform 0.3s ease;"/>
+  <img src="https://img.shields.io/badge/Godot Engine-3C3C3C?style=for-the-badge&logo=godot&logoColor=white" alt="Godot" style="transition: transform 0.3s ease;"/>
 </div>
 
 ## 📫 How to Reach Me
